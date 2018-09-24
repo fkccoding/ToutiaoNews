@@ -1,0 +1,2 @@
+spring.velocity.suffix=.html
+放在主配置文件，修改velocity默认的模板后缀名
